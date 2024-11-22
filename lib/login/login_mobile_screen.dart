@@ -48,7 +48,7 @@ class LoginMobileScreen extends StatelessWidget {
                   style: GoogleFonts.poppins(
                     fontWeight: FontWeight.w600,
                     color: Colors.black,
-                    fontSize: 20,
+                    fontSize: 18,
                   ),
                 ),
               ],
